@@ -42,6 +42,13 @@
   font-size: 0.7em;
 }
 
+.App-connection {
+  font-size: 0.3em;
+}
+
+button { width: 150px; height: 30px; border-radius: 3px; background: #61dafb; color:#fffdfd; cursor: pointer; margin: 5px; border-radius: 99px; }
+input[type=text] {width: 80px; height: 24px; text-align: center; }
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
