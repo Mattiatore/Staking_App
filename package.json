@@ -2,6 +2,7 @@
   "name": "hello_world_web3",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Mattiatore.github.io/Staking_App/",
   "dependencies": {
     "@metamask/detect-provider": "^2.0.0",
     "@testing-library/jest-dom": "^5.16.5",
